@@ -1,1 +1,2 @@
 _bazel_root/install/1a80ecdfe78ff11e1566d5084a48c3f7/A-server.jar filter=lfs diff=lfs merge=lfs -text
+_bazel_root/cache/repos/v1/content_addressable/sha256/** filter=lfs diff=lfs merge=lfs -text
